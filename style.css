@@ -1,0 +1,16 @@
+
+
+#nav{
+	text-align: right;
+	padding: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: #404040;
+
+}
+
+a:hover {
+	text-decoration: underline;
+}
